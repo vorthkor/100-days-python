@@ -13,7 +13,7 @@ while True:
     print("Too High 🧐")
     attempts += 1
   elif guess < number and guess >= 0:
-    print("Too Low 😭")
+    print("Too Low! 😭")
     attempts += 1
     continue
   elif guess < 0:

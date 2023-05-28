@@ -21,7 +21,7 @@ Replit's 100 days of python challenges
  - [x] Day 18/100
  - [x] Day 19/100
  - [x] Day 20/100
- - [ ] Day 21/100
+ - [x] Day 21/100
  - [ ] Day 22/100
  - [ ] Day 23/100
  - [ ] Day 24/100

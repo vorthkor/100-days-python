@@ -18,11 +18,11 @@ Replit's 100 days of python challenges
  - [x] Day 15/100
  - [x] Day 16/100
  - [x] Day 17/100
- - [x] Day 18/100
- - [x] Day 19/100
- - [x] Day 20/100
- - [x] Day 21/100
- - [ ] Day 22/100
+ - [x] [Day 18](https://github.com/vorthkor/100-days-python/tree/day-18-loops)/100 ✅
+ - [x] [Day 19](https://github.com/vorthkor/100-days-python/tree/day-19-loops)/100 ✅
+ - [x] [Day 20](https://github.com/vorthkor/100-days-python/tree/day-20-loops)/100 ✅
+ - [x] [Day 21](https://github.com/vorthkor/100-days-python/tree/day-21-loops-challenge)/100 ✅
+ - [x] [Day 22](https://github.com/vorthkor/100-days-python/tree/day-22-libraries)/100 ✅
  - [ ] Day 23/100
  - [ ] Day 24/100
  - [ ] Day 25/100

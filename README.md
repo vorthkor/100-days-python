@@ -1,29 +1,29 @@
 # 100-days-python
 Replit's 100 days of python challenges
 
- - [x] Day 1/100
- - [x] Day 2/100
- - [x] Day 3/100
- - [x] Day 4/100
- - [x] Day 5/100
- - [x] Day 6/100
- - [x] Day 7/100
- - [x] Day 8/100
- - [x] Day 9/100
- - [x] Day 10/100
- - [x] Day 11/100
- - [x] Day 12/100
- - [x] Day 13/100
- - [x] Day 14/100
- - [x] Day 15/100
- - [x] Day 16/100
- - [x] Day 17/100
+ - [x] [Day 1]()/100 ✅
+ - [x] [Day 2]()/100 ✅
+ - [x] [Day 3]()/100 ✅
+ - [x] [Day 4]()/100 ✅
+ - [x] [Day 5]()/100 ✅
+ - [x] [Day 6]()/100 ✅
+ - [x] [Day 7]()/100 ✅
+ - [x] [Day 8]()/100 ✅
+ - [x] [Day 9]()/100 ✅
+ - [x] [Day 10]()/100 ✅
+ - [x] [Day 11]()/100 ✅
+ - [x] [Day 12](https://github.com/vorthkor/100-days-python/tree/day-12-debug)/100 ✅
+ - [x] [Day 13](https://github.com/vorthkor/100-days-python/tree/day-13-challenge-grade)/100 ✅
+ - [x] [Day 14](https://github.com/vorthkor/100-days-python/tree/day-14-challenge-rockpaperscissors)/100 ✅
+ - [x] [Day 15](https://github.com/vorthkor/100-days-python/tree/day-15-loops)/100 ✅
+ - [x] [Day 16](https://github.com/vorthkor/100-days-python/tree/day-16-while-loop)/100 ✅
+ - [x] [Day 17](https://github.com/vorthkor/100-days-python/tree/day-17-loops)/100 ✅
  - [x] [Day 18](https://github.com/vorthkor/100-days-python/tree/day-18-loops)/100 ✅
  - [x] [Day 19](https://github.com/vorthkor/100-days-python/tree/day-19-loops)/100 ✅
  - [x] [Day 20](https://github.com/vorthkor/100-days-python/tree/day-20-loops)/100 ✅
  - [x] [Day 21](https://github.com/vorthkor/100-days-python/tree/day-21-loops-challenge)/100 ✅
  - [x] [Day 22](https://github.com/vorthkor/100-days-python/tree/day-22-libraries)/100 ✅
- - [ ] Day 23/100
+ - [ ] [Day 23](https://github.com/vorthkor/100-days-python/tree/day-23-subroutines)/100 ✅
  - [ ] Day 24/100
  - [ ] Day 25/100
  - [ ] Day 26/100

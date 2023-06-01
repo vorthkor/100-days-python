@@ -24,7 +24,7 @@ Replit's 100 days of python challenges
  - [x] [Day 21](https://github.com/vorthkor/100-days-python/tree/day-21-loops-challenge)/100 ✅
  - [x] [Day 22](https://github.com/vorthkor/100-days-python/tree/day-22-libraries)/100 ✅
  - [x] [Day 23](https://github.com/vorthkor/100-days-python/tree/day-23-subroutines)/100 ✅
- - [ ] Day 24/100
+ - [x] [Day 24](https://github.com/vorthkor/100-days-python/tree/day-24-parameters)/100 ✅
  - [ ] Day 25/100
  - [ ] Day 26/100
  - [ ] Day 27/100

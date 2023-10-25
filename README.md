@@ -27,7 +27,7 @@ Replit's 100 days of python challenges
  - [x] [Day 24](https://github.com/vorthkor/100-days-python/tree/day-24-parameters)/100 ✅
  - [x] [Day 25](https://github.com/vorthkor/100-days-python/tree/day-25-return)/100 ✅
  - [x] [Day 26](https://replit.com/@vorthkor/day26100-days-of-code-Music-Player?v=1)/100 ✅
- - [ ] Day 27/100
+ - [x] [Day 27](https://replit.com/@vorthkor/day-27100-days-of-code-Character-generator?v=1)/100 ✅
  - [ ] Day 28/100
  - [ ] Day 29/100
  - [ ] Day 30/100

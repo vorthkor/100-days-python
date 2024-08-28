@@ -1,0 +1,16 @@
+# day2_100 days python
+
+print("Getting to know you!")
+yourName = input("What is your name?: ")
+favoriteFood = input("What is your favorite food?: ")
+favoriteMusic = input("What is your favorite music?: ")
+whereLive = input("Where do you live?: ")
+print()
+print("You are")
+print(yourName)
+print("You're probably hungry for")
+print(favoriteFood)
+print("and you're definitely getting your groove on to")
+print(favoriteMusic)
+print("living in the amazing")
+print(whereLive)

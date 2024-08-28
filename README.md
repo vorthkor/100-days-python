@@ -1,103 +1,103 @@
 # 100-days-python
 Replit's 100 days of python challenges
 
- - [x] [Day 1]()/100 ✅
- - [x] [Day 2]()/100 ✅
- - [x] [Day 3]()/100 ✅
- - [x] [Day 4]()/100 ✅
- - [x] [Day 5]()/100 ✅
- - [x] [Day 6]()/100 ✅
- - [x] [Day 7]()/100 ✅
- - [x] [Day 8]()/100 ✅
- - [x] [Day 9]()/100 ✅
- - [x] [Day 10]()/100 ✅
- - [x] [Day 11]()/100 ✅
- - [x] [Day 12](https://github.com/vorthkor/100-days-python/tree/day-12-debug)/100 ✅
- - [x] [Day 13](https://github.com/vorthkor/100-days-python/tree/day-13-challenge-grade)/100 ✅
- - [x] [Day 14](https://github.com/vorthkor/100-days-python/tree/day-14-challenge-rockpaperscissors)/100 ✅
- - [x] [Day 15](https://github.com/vorthkor/100-days-python/tree/day-15-loops)/100 ✅
- - [x] [Day 16](https://github.com/vorthkor/100-days-python/tree/day-16-while-loop)/100 ✅
- - [x] [Day 17](https://github.com/vorthkor/100-days-python/tree/day-17-loops)/100 ✅
- - [x] [Day 18](https://github.com/vorthkor/100-days-python/tree/day-18-loops)/100 ✅
- - [x] [Day 19](https://github.com/vorthkor/100-days-python/tree/day-19-loops)/100 ✅
- - [x] [Day 20](https://github.com/vorthkor/100-days-python/tree/day-20-loops)/100 ✅
- - [x] [Day 21](https://github.com/vorthkor/100-days-python/tree/day-21-loops-challenge)/100 ✅
- - [x] [Day 22](https://github.com/vorthkor/100-days-python/tree/day-22-libraries)/100 ✅
- - [x] [Day 23](https://github.com/vorthkor/100-days-python/tree/day-23-subroutines)/100 ✅
- - [x] [Day 24](https://github.com/vorthkor/100-days-python/tree/day-24-parameters)/100 ✅
- - [x] [Day 25](https://github.com/vorthkor/100-days-python/tree/day-25-return)/100 ✅
- - [x] [Day 26](https://replit.com/@vorthkor/day26100-days-of-code-Music-Player?v=1)/100 ✅
- - [x] [Day 27](https://replit.com/@vorthkor/day-27100-days-of-code-Character-generator?v=1)/100 ✅
- - [x] Day 28/100 ✅
- - [x] Day 29/100 ✅
- - [x] Day 30/100 ✅
- - [x] Day 31/100 ✅
- - [x] Day 32/100 ✅
- - [x] Day 33/100 ✅
- - [x] Day 34/100 ✅
- - [ ] Day 35/100
- - [ ] Day 36/100
- - [ ] Day 37/100
- - [ ] Day 38/100
- - [ ] Day 39/100
- - [ ] Day 40/100
- - [ ] Day 41/100
- - [ ] Day 42/100
- - [ ] Day 43/100
- - [ ] Day 44/100
- - [ ] Day 45/100
- - [ ] Day 46/100
- - [ ] Day 47/100
- - [ ] Day 48/100
- - [ ] Day 49/100
- - [ ] Day 50/100
- - [ ] Day 51/100
- - [ ] Day 52/100
- - [ ] Day 53/100
- - [ ] Day 54/100
- - [ ] Day 55/100
- - [ ] Day 56/100
- - [ ] Day 57/100
- - [ ] Day 58/100
- - [ ] Day 59/100
- - [ ] Day 60/100
- - [ ] Day 61/100
- - [ ] Day 62/100
- - [ ] Day 63/100
- - [ ] Day 64/100
- - [ ] Day 65/100
- - [ ] Day 66/100
- - [ ] Day 67/100
- - [ ] Day 68/100
- - [ ] Day 69/100
- - [ ] Day 70/100
- - [ ] Day 71/100
- - [ ] Day 72/100
- - [ ] Day 73/100
- - [ ] Day 74/100
- - [ ] Day 75/100
- - [ ] Day 76/100
- - [ ] Day 77/100
- - [ ] Day 78/100
- - [ ] Day 79/100
- - [ ] Day 80/100
- - [ ] Day 81/100
- - [ ] Day 82/100
- - [ ] Day 83/100
- - [ ] Day 84/100
- - [ ] Day 85/100
- - [ ] Day 86/100
- - [ ] Day 87/100
- - [ ] Day 88/100
- - [ ] Day 89/100
- - [ ] Day 90/100
- - [ ] Day 91/100
- - [ ] Day 92/100
- - [ ] Day 93/100
- - [ ] Day 94/100
- - [ ] Day 95/100
- - [ ] Day 96/100
- - [ ] Day 97/100
- - [ ] Day 98/100
- - [ ] Day 99/100
- - [ ] Day 100/100
+ - [x] [Day 001]()/100
+ - [x] [Day 002]()/100
+ - [x] [Day 003]()/100
+ - [x] [Day 004]()/100
+ - [x] [Day 005]()/100
+ - [x] [Day 006]()/100
+ - [x] [Day 007]()/100
+ - [x] [Day 008]()/100
+ - [x] [Day 009]()/100
+ - [x] [Day 010]()/100
+ - [x] [Day 011]()/100
+ - [x] [Day 012]()/100
+ - [x] [Day 013]()/100
+ - [x] [Day 014]()/100
+ - [x] [Day 015]()/100
+ - [x] [Day 016]()/100
+ - [x] [Day 017]()/100
+ - [x] [Day 018]()/100
+ - [x] [Day 019]()/100
+ - [x] [Day 020]()/100
+ - [x] [Day 021]()/100
+ - [x] [Day 022]()/100
+ - [x] [Day 023]()/100
+ - [x] [Day 024]()/100
+ - [x] [Day 025]()/100
+ - [x] [Day 026]()/100
+ - [x] [Day 027]()/100
+ - [x] [Day 028]()/100
+ - [x] [Day 029]()/100
+ - [x] [Day 030]()/100
+ - [x] [Day 031]()/100
+ - [x] [Day 032]()/100
+ - [x] [Day 033]()/100
+ - [x] [Day 034]()/100
+ - [x] [Day 035]()/100
+ - [x] [Day 036]()/100
+ - [x] [Day 037]()/100
+ - [x] [Day 038]()/100
+ - [x] [Day 039]()/100
+ - [x] [Day 040]()/100
+ - [x] [Day 041]()/100
+ - [x] [Day 042]()/100
+ - [x] [Day 043]()/100
+ - [x] [Day 044]()/100
+ - [x] [Day 045]()/100
+ - [x] [Day 046]()/100
+ - [x] [Day 047]()/100
+ - [x] [Day 048]()/100
+ - [x] [Day 049]()/100
+ - [x] [Day 050]()/100
+ - [x] [Day 051]()/100
+ - [ ] [Day 052]()/100
+ - [ ] [Day 053]()/100
+ - [ ] [Day 054]()/100
+ - [ ] [Day 055]()/100
+ - [ ] [Day 056]()/100
+ - [ ] [Day 057]()/100
+ - [ ] [Day 058]()/100
+ - [ ] [Day 059]()/100
+ - [ ] [Day 060]()/100
+ - [ ] [Day 061]()/100
+ - [ ] [Day 062]()/100
+ - [ ] [Day 063]()/100
+ - [ ] [Day 064]()/100
+ - [ ] [Day 065]()/100
+ - [ ] [Day 066]()/100
+ - [ ] [Day 067]()/100
+ - [ ] [Day 068]()/100
+ - [ ] [Day 069]()/100
+ - [ ] [Day 070]()/100
+ - [ ] [Day 071]()/100
+ - [ ] [Day 072]()/100
+ - [ ] [Day 073]()/100
+ - [ ] [Day 074]()/100
+ - [ ] [Day 075]()/100
+ - [ ] [Day 076]()/100
+ - [ ] [Day 077]()/100
+ - [ ] [Day 078]()/100
+ - [ ] [Day 079]()/100
+ - [ ] [Day 080]()/100
+ - [ ] [Day 081]()/100
+ - [ ] [Day 082]()/100
+ - [ ] [Day 083]()/100
+ - [ ] [Day 084]()/100
+ - [ ] [Day 085]()/100
+ - [ ] [Day 086]()/100
+ - [ ] [Day 087]()/100
+ - [ ] [Day 088]()/100
+ - [ ] [Day 089]()/100
+ - [ ] [Day 090]()/100
+ - [ ] [Day 091]()/100
+ - [ ] [Day 092]()/100
+ - [ ] [Day 093]()/100
+ - [ ] [Day 094]()/100
+ - [ ] [Day 095]()/100
+ - [ ] [Day 096]()/100
+ - [ ] [Day 097]()/100
+ - [ ] [Day 098]()/100
+ - [ ] [Day 099]()/100
+ - [ ] [Day 100]()/100
